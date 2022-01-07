@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/01/04 18:50:10.000.929,=C:\Users\Microdata\OneDrive - Microdata Sistemas\Documentos\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2022/01/04 18:56:55.000.569,C:\Users\Microdata\OneDrive - Microdata Sistemas\Documentos\Embarcadero\Studio\Projects\Unit3.pas=C:\Negocios\VK\unPrincipal.pas</Transaction>
+    <Transaction>2022/01/04 18:56:55.000.569,C:\Users\Microdata\OneDrive - Microdata Sistemas\Documentos\Embarcadero\Studio\Projects\Unit3.dfm=C:\Negocios\VK\unPrincipal.dfm</Transaction>
+    <Transaction>2022/01/04 18:56:58.000.371,C:\Users\Microdata\OneDrive - Microdata Sistemas\Documentos\Embarcadero\Studio\Projects\Project3.dproj=C:\Negocios\VK\VK.dproj</Transaction>
+    <Transaction>2022/01/04 18:57:11.000.737,=C:\Negocios\VK\Unit1.pas</Transaction>
+    <Transaction>2022/01/04 18:57:47.000.489,C:\Negocios\VK\Unit1.dfm=C:\Negocios\VK\DmConexao.dfm</Transaction>
+    <Transaction>2022/01/04 18:57:47.000.489,C:\Negocios\VK\Unit1.pas=C:\Negocios\VK\DmConexao.pas</Transaction>
+    <Transaction>2022/01/04 20:01:47.000.060,=C:\Negocios\VK\Unit1.pas</Transaction>
+    <Transaction>2022/01/04 20:06:12.000.389,C:\Negocios\VK\Unit1.pas=C:\Negocios\VK\ObjPedido.pas</Transaction>
+    <Transaction>2022/01/04 20:26:39.000.388,=C:\Negocios\VK\Unit1.pas</Transaction>
+    <Transaction>2022/01/04 20:30:48.000.096,C:\Negocios\VK\Unit1.pas=C:\Negocios\VK\ObjConexao.pas</Transaction>
+    <Transaction>2022/01/05 12:13:32.000.336,=C:\Negocios\VK\Unit1.pas</Transaction>
+    <Transaction>2022/01/05 12:14:51.000.193,C:\Negocios\VK\uControle.pas=C:\Negocios\VK\Unit1.pas</Transaction>
+    <Transaction>2022/01/05 16:45:26.000.153,C:\Negocios\VK\uControle.pas=</Transaction>
+    <Transaction>2022/01/05 23:06:27.000.055,=C:\Negocios\VK\Unit1.pas</Transaction>
+    <Transaction>2022/01/05 23:10:05.000.794,C:\Negocios\VK\Unit1.pas=C:\Negocios\VK\ObjPedido_Itens.pas</Transaction>
+    <Transaction>2022/01/05 23:10:21.000.336,C:\Negocios\VK\ObjPedido_Itens.pas=C:\Negocios\VK\ObjPedidoItens.pas</Transaction>
+    <Transaction>2022/01/05 23:38:03.000.107,C:\Negocios\VK\ObjPedidoItens.pas=</Transaction>
+    <Transaction>2022/01/05 23:38:07.000.935,=C:\Negocios\VK\ObjPedidoItens.pas</Transaction>
+    <Transaction>2022/01/06 08:03:22.000.493,C:\Negocios\VK\DmConexao.pas=</Transaction>
+    <Transaction>2022/01/06 15:57:46.565,=C:\Negocios\VK\DmConexao.pas</Transaction>
+    <Transaction>2022/01/06 17:03:43.118,C:\Negocios\VK\WK.dproj=C:\Negocios\VK\VK.dproj</Transaction>
+    <Transaction>2022/01/06 19:16:02.421,C:\Negocios\VK\DmConexao.pas=</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="unPrincipal.pas"/>
+    <File Path="unPrincipal.dfm"/>
+    <File Path="ObjPedido.pas"/>
+    <File Path="ObjConexao.pas"/>
+    <File Path="ObjPedidoItens.pas"/>
+  </ProjectSortOrder>
+</BorlandProject>
