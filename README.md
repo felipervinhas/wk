@@ -17,3 +17,6 @@ Usuário: Root
 Senha: Sem Senha
 
 Local Dll: Mesma Exe
+
+
+OBS: Caso seja necessário a alteração destas configurações , acesse os fontes na ObjConexao Só alterar as propriedades que já irá funcionar.
